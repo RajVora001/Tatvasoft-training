@@ -1,0 +1,27 @@
+.line {
+    height: 8px;
+    width: auto;
+    background-color: red;
+}
+
+.header {
+    height: 92px;
+}
+
+.Login {
+    font-size: 14px;
+    font-style: Roboto;
+    color: #f14d54;
+    justify-items: right;
+}
+
+.cart {
+    width: 80.88px;
+    color: rgb(65, 65, 65);
+}
+
+.search {
+    height: 80px;
+    color: rgb(195, 185, 185);
+
+}
